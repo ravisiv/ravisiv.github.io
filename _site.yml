@@ -1,6 +1,7 @@
 name: "Beer-CaseStudy"
 navbar: 
   title: "Beer Case Study"
-  text: "About"
-  href: "aboutme.html"
+  left:
+    text: "About"
+      lihref: "aboutme.html"
   
