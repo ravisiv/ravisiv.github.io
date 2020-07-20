@@ -1,0 +1,6 @@
+name: "Beer-CaseStudy"
+navbar: 
+  title: "Beer Case Study"
+  text: "About"
+  href: "aboutme.html"
+  
